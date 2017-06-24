@@ -5,5 +5,9 @@ retrofit tutorial in android programming
 http://www.aparat.com/v/qrNpk
 
 # Introduce
-this tutorial is about rterofit that published by alireza nazari in aparat , youtube , http://alirezanazari.ir
+this tutorial is about rterofit that published by alireza nazari in aparat , youtube , http://alirezanazari.ir <br>
 این سورس دوره اموزشی برنامه نویسی اندروید - رتروفیت در سایت آپارات و... می باشد.
+
+# Links
+http://www.aparat.com/v/qrNpk
+http://alirezanazari.ir
